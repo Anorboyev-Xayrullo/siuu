@@ -1,0 +1,250 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav_link{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav_btn_main{
+    display: flex;
+    
+    
+}
+
+.nav_btn_text{
+    list-style: none;
+    text-decoration: none;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+
+.list_item a {
+    margin-left: 30px;
+    text-decoration: none;
+}
+
+.nav_btn_main_alo{
+    gap: 40px;
+}
+.nav_btn{
+    max-width: 40px;
+    height: 40px;
+}
+.nav_btn_foor{
+    min-width: 40px;
+    height: 18px;
+    margin-top: 20px;
+}
+
+.appo{
+    width: 188px;
+    height: 76px;
+    left: 1519px;
+    top: 46px;
+    border: none;
+    color: #FFFFFF;
+    background: #99BAED;
+    border-radius: 20px;
+}
+
+
+.servis{
+    color: #163561;
+    text-align: center;
+}
+
+.prov{
+    color: #FBB400;
+}
+.style{
+    color: 
+    #FBB400;
+}
+
+.hair{
+    color: #163561;
+    text-align: center;
+}
+
+.get{
+    width: 127px;
+height: 57px;
+left: 188px;
+top: 813px;
+margin-top: 20px;
+background: #99BAED;
+border-radius: 20px;
+border: none;
+color: #FFFFFF;
+text-align: center;
+margin-left: 33%;
+}
+
+.ghj{
+    width: 93px;
+    height: 10px;
+    
+    background: #A3C1EF;
+    border-radius: 5px;
+}
+
+.history{
+    color: #FBB400;
+}
+
+.our{
+    color: #163561;
+}
+
+.bola{
+    margin-top: 100px;
+}
+.long{
+    text-align: center;
+    margin-top: 20px;
+}
+.xurwid{
+    margin-top: -100px;
+    width: 100%;
+    height: 700px;
+}
+
+.main_tex{
+    margin-top: -175px;
+    width: 100%;
+    height: 650px;
+}
+.lolalar{
+    text-align: center;
+    
+}
+.that{
+  margin-top: 80px;
+}
+.reader{
+    margin-top: 50px;
+}
+.learn{
+    margin-top: 50px;
+    width: 188px;
+height: 75px;
+left: 1199px;
+top: 1898px;
+border: none;
+color: #FFFFFF;
+background: #99BAED;
+border-radius: 20px;
+}
+
+.card-img-top{
+max-width: 100px;
+
+background: #E5ECFE;
+box-shadow: 0px 1px 0px #008FDD;
+border-radius: 13px;
+}
+
+.card{
+    max-width: 300px;
+    width: 441px;
+height: 533px;
+background: #99BAED;
+border-radius: 29px;
+}
+
+.islom{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.gala{
+    color: #FBB400;
+}
+.gallery{
+    margin-top: 100px;
+    text-align: center;
+    color: #163561;
+}
+.phones{
+    text-align: center;
+    max-width: 100px;
+}
+
+.viev{
+    text-align: center;
+    
+}
+.all{
+    margin-top: 40px;
+    width: 188px;
+height: 75px;
+left: 866px;
+top: 4550px;
+color: #FFFFFF;
+
+background: #99BAED;
+border-radius: 20px;
+border: none;
+}
+
+.shoh{
+    text-align: center;
+}
+
+.ozod{
+    margin-top: 100px;
+}
+
+.hair:hover{
+    color: red;
+}
+
+.long:hover{
+    color: #163561;
+}
+.get:hover{
+    color: #FBB400;
+
+}
+.ghj:hover{
+    color: chartreuse;
+}
+.appo:hover{
+    color: black;
+    background: chartreuse;
+}
+
+.get:hover{
+    color: black;
+     background: chartreuse;
+}
+
+.learn:hover{
+    color: black;
+    background: chartreuse;
+}
+
+.all:hover{
+    color: black;
+    background: chartreuse;
+}
+
+
+@media (max-width:575px) {
+    .main_tex {
+        margin-top: 0;
+        width: 100%;
+        height: 350px;
+    }
+    .xurwid {
+        margin-top: 0;
+        width: 100%;
+        height: 300px;
+    }
+
+}
+
